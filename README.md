@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerroshank&label=Profile%20views&color=0e75b6&style=flat" alt="developerroshank" /> </p>
 
-- 🔭 I’m currently working on **Full Stact Web Development;**
+- 🔭 I’m currently working on **Full Stack Web Development;**
 
 - 👯 I’m looking to collaborate on **Web Development Using Python;**
 
