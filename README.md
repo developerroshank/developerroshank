@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms;**
 
-- 💬 Ask me about **anything, I am happy to help;**
+- 💬 Ask me about **python, web design, I am happy to help;**
 
 - 📫 How to reach me **developerroshank@gmail.com;**
 
