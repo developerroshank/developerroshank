@@ -19,7 +19,6 @@
 
 <div align="left">
   
-</div>
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="left"> -->
 <a href="https://twitter.com/dev_roshan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_roshan_" height="30" width="40" /></a>
@@ -32,7 +31,7 @@
   <a href="https://www.figma.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <!-- </p>
  -->
-
+ 
 <h3 align="left">Languages and Tools:</h3>
 <!-- <p align="left"> -->
   <a href="https://www.figma.com/" target="blank" style="text-decoration: none;"><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
@@ -42,6 +41,8 @@
   <a href="https://www.w3.org/html/" target="blank" style="text-decoration: none;"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="" width="40" height="40" /> </a>
   <a href="https://www.php.net" target="blank" style="text-decoration: none;"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
 <!-- </p> -->
+</div>
+
 <!-- <p align="left"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   <a href="https://getbootstrap.com" target="blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
