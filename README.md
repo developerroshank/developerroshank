@@ -27,6 +27,7 @@
 <a href="https://www.codechef.com/users/devroshan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devroshan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/developerroshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="developerroshan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dev_roshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev_roshan" height="30" width="40" /></a>
+  <a href="https://www.figma.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
 
