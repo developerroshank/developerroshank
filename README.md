@@ -32,33 +32,34 @@ My name is **Roshan** and I'm a **Frontend Developer**, from **New Delhi, India*
 
 ###
 
-<div align="left">
-  <a href="https://twitter.com/dev_roshan_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://linkedin.com/in/developerroshan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://instagram.com/developer_roshan_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/developerroshan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="https://www.behance.net/roshangraphics" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
-  </a>
-  <a href="https://www.codechef.com/users/devroshan" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devroshan" width="52" height="40" />
-  </a>
-  <a href="https://www.hackerrank.com/developerroshan" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="developerroshan" width="52" height="40" />
-  </a>
-  <a href="https://www.leetcode.com/dev_roshan" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev_roshan" width="52" height="40" />
-  </a>
+<h2 align="left">Connect with me</h2>
+  
+###
 
-</div>
+<p align="left">
+  <a href="https://twitter.com/dev_roshan_" target="blank"><img align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+          alt="dev_roshan_" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/developerroshan" target="blank" style="text-decoration: none;"><img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+          alt="developerroshan" height="30" width="40" /></a>
+  <a href="https://instagram.com/developer_roshan_" target="blank"><img align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+          alt="developer_roshan_" height="30" width="40" /></a>
+  <a href="https://www.behance.net/roshangraphics" target="blank"><img align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
+          alt="roshangraphics" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/devroshan" target="blank"><img align="center"
+          src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devroshan" height="30"
+          width="40" /></a>
+  <a href="https://www.hackerrank.com/developerroshan" target="blank"><img align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+          alt="developerroshan" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/dev_roshan" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+          alt="dev_roshan" height="30" width="40" /></a>
+</p>
 
 ###
 
@@ -89,10 +90,6 @@ My name is **Roshan** and I'm a **Frontend Developer**, from **New Delhi, India*
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<h2 align="left">Connect with me</h2>
 
 ###
 
