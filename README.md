@@ -32,7 +32,7 @@ My name is **Roshan** and I'm a **Frontend Developer**, from **New Delhi, India*
 
 ###
 
-<h2 align="left">Find On</h2>
+<h2 align="left">Find me On</h2>
   
 ###
 
