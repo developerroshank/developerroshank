@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 <Coder's/> </h1>
+<h1 align="left">Hey 👋 &lt;Coder's/&gt; </h1>
 
 ###
 
@@ -32,7 +32,7 @@ My name is **Roshan** and I'm a **Frontend Developer**, from **New Delhi, India*
 
 ###
 
-<h2 align="left">Connect with me</h2>
+<h2 align="left">Find On</h2>
   
 ###
 
