@@ -20,7 +20,7 @@ My name is **Roshan** and I'm a **Frontend Developer**, from **New Delhi, India*
 
 - 👯 I’m looking to collaborate on **Frontend Development Using JavaScript;**
 
-- 🌱 I’m currently learning **ReactJS;**
+- 🌱 I’m currently learning **ReactJS, Node Js and NOSQL;**
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms;**
 
