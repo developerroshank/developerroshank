@@ -8,10 +8,6 @@ This is my [Portfolio Website](https://devlroshan.netlify.app/).
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developerroshank&label=Profile%20views&color=0e75b6&style=flat" alt="developerroshank" /> </p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
@@ -110,3 +106,12 @@ This is my [Portfolio Website](https://devlroshan.netlify.app/).
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=developerroshank&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+
+
+###
+
+###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=developerroshank&label=Profile%20views&color=0e75b6&style=flat" alt="developerroshank" /> </p>
+
+###
