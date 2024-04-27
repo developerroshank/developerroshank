@@ -12,28 +12,28 @@ This is my [Portfolio Website](https://devlroshan.netlify.app/).
 
 ###
 
-✨ Creating bugs since 
+✨ Creating bugs since <br>
     **2021**
     
-🔭 I’m currently working on
+🔭 I’m currently working on <br>
    **Full Stack Web Development;**
 
-👯 I’m looking to collaborate on
+👯 I’m looking to collaborate on <br>
   **Frontend Development Using JavaScript;**
 
-🌱 I’m currently learning
+🌱 I’m currently learning <br>
   **ReactJS, Node Js and NOSQL;**
 
-🤝 I’m looking for help with
+🤝 I’m looking for help with <br>
   **Data Structures and Algorithms;**
 
-- 💬 Ask me about
+💬 Ask me about <br>
   **frontend developement, web design, I am happy to help;**
 
-- 📫 How to reach me
+📫 How to reach me <br>
   **developerroshank@gmail.com;**
 
-- ⚡ Fun fact
+⚡ Fun fact <br>
   **Learning New Things**
 
 ###
@@ -100,6 +100,10 @@ This is my [Portfolio Website](https://devlroshan.netlify.app/).
 ###
 
 <img src="https://raw.githubusercontent.com/developerroshank/developerroshank/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">📊 GitHub Stats:</h2>
 
 ###
 
