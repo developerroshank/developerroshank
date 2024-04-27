@@ -12,18 +12,19 @@ This is my [Portfolio Website](https://devlroshan.netlify.app/).
 
 ###
 
-- ✨ Creating bugs since **2021**
-
-- 🔭 I’m currently working on
+✨ Creating bugs since 
+    **2021**
+    
+🔭 I’m currently working on
    **Full Stack Web Development;**
 
-- 👯 I’m looking to collaborate on
+👯 I’m looking to collaborate on
   **Frontend Development Using JavaScript;**
 
-- 🌱 I’m currently learning
+🌱 I’m currently learning
   **ReactJS, Node Js and NOSQL;**
 
-- 🤝 I’m looking for help with
+🤝 I’m looking for help with
   **Data Structures and Algorithms;**
 
 - 💬 Ask me about
@@ -37,7 +38,7 @@ This is my [Portfolio Website](https://devlroshan.netlify.app/).
 
 ###
 
-<h2 align="left">Find me On</h2>
+<h2 align="left">🌐 Socials:</h2>
   
 ###
 
