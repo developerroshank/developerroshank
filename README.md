@@ -4,7 +4,7 @@
 
 My name is **Roshan** and I'm a **Frontend Developer**, from **New Delhi, India**
 
-This is my [Portfolio Website](https://devlroshan.netlify.app/).
+This is my [Portfolio Website](https://devlroshan.netlify.app/)
 
 ###
 
