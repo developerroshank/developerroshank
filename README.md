@@ -14,28 +14,28 @@ This is my [Portfolio Website](https://devlroshan.netlify.app/)
 
 ###
 
-✨ **Creating bugs since** <br>
-    2021
+✨ *Creating bugs since* <br>
+    **2021**
     
-🔭 **I’m currently working on** <br>
-   Full Stack Web Development;
+🔭 *I’m currently working on* <br>
+   **Full Stack Web Development**;
 
-👯 **I’m looking to collaborate on** <br>
-   Frontend Development Using JavaScript;
+👯 *I’m looking to collaborate on* <br>
+   **Frontend Development Using JavaScript**;
 
-🌱 **I’m currently learning** <br>
-   ReactJS, Node Js and NOSQL;
+🌱 *I’m currently learning* <br>
+   **ReactJS, Node Js and NextJs**;
 
-🤝 **I’m looking for help with** <br>
-   Data Structures and Algorithms;
+🤝 *I’m looking for help with* <br>
+   **Data Structures and Algorithms**;
 
-💬 **Ask me about** <br>
-   frontend developement, web design, I am happy to help;
+💬 *Ask me about* <br>
+   **frontend developement, web design, I am happy to help**;
 
-📫 **How to reach me** <br>
-   developerroshank@gmail.com;
+📫 *How to reach me* <br>
+   **developerroshank@gmail.com**;
 
-⚡ **Fun fact** <br>
+⚡ *Fun fact* <br>
    Learning New Things
 
 ###
