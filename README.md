@@ -24,7 +24,7 @@ This is my [Portfolio Website](https://devlroshan.netlify.app/)
    **SASS Platform Using MERN**;
 
 🌱 *I’m currently learning* <br>
-   **ReactJS, Node Js and NextJs**;
+   **ReactJS, NextJs, Node Js, and MongoDB**;
 
 🤝 *I’m looking for help with* <br>
    **Data Structures and Algorithms**;
