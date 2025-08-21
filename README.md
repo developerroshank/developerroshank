@@ -15,10 +15,10 @@ This is my [Portfolio Website](https://devlroshan.netlify.app/)
 ###
 
 ✨ *Creating bugs since* <br>
-    **2021**
+    **2023**
     
 🔭 *I’m currently working on* <br>
-   **Full Stack Web Development**;
+   **MERN Stack Development**;
 
 👯 *I’m looking to collaborate on* <br>
    **Frontend Development Using JavaScript**;
