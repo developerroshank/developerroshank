@@ -21,7 +21,7 @@ This is my [Portfolio Website](https://devlroshan.netlify.app/)
    **MERN Stack Development**;
 
 👯 *I’m looking to collaborate on* <br>
-   **Frontend Development Using JavaScript**;
+   **SASS Platform Using MERN**;
 
 🌱 *I’m currently learning* <br>
    **ReactJS, Node Js and NextJs**;
