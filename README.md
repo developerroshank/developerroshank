@@ -30,7 +30,7 @@ This is my [Portfolio Website](https://devlroshan.netlify.app/)
    **Data Structures and Algorithms**;
 
 💬 *Ask me about* <br>
-   **frontend developement, web design, I am happy to help**;
+   **mern stack developement, frontend developement, web design, I am happy to help**;
 
 📫 *How to reach me* <br>
    **developerroshank@gmail.com**;
