@@ -18,7 +18,7 @@ This is my [Portfolio Website](https://www.roshandev.space/)
     **2023**
     
 🔭 *I’m currently working on* <br>
-   **MERN Stack Development**;
+   **MERN Full Stack Projects**;
 
 👯 *I’m looking to collaborate on* <br>
    **SASS Platform Using MERN**;
